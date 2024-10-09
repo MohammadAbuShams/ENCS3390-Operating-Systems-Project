@@ -35,4 +35,4 @@ Processes are moved between queues based on their execution state and the rules 
 ## Contributors
 
 - [Mohammad AbuShams](https://github.com/MohammadAbuShams)
-- [Mohammed Owda](https://github.com/M7mdOdeh1).
+- [Mohammed Owda](https://github.com/M7mdOdeh1)
